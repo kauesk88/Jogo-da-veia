@@ -1,0 +1,22 @@
+body {
+    margin:0;
+    padding:0;
+}
+.botao{
+   height:100px; 
+   width:100px;
+   margin-bottom:4px;
+}
+.jogo{
+   margin-top:50px; 
+   margin-left: 25px;
+}
+h1{
+   margin-left:35px;
+} 
+
+#iniciar{
+   margin-left: 25px;
+   height: 30px;
+   width: 50 px;
+}
